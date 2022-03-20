@@ -1,4 +1,4 @@
-[21:18, 3/20/2022] +91 78937 76924: # TEST PLAN:
+# TEST PLAN:
 
 ## Table no 1: High level test plan
 
